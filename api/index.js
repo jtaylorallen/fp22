@@ -14,7 +14,7 @@ const cors = require("cors");
 
 mongoose
   .connect(process.env.MONGO_URL)
-  .then(() => console.log("DB Connection Successfull!"))
+  .then(() => console.log("Success!"))
   .catch((err) => {
     console.log(err);
   });
@@ -29,5 +29,5 @@ app.use("/api/orders", orderRoute);
 app.use("/api/checkout", stripeRoute);
 
 app.listen(process.env.PORT || 5000, () => {
-  console.log("Backend server is running!");
+  console.log("ITS ALIVE!");
 });
