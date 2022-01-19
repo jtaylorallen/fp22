@@ -1,21 +1,21 @@
 export const sliderItems = [
     {
       id: 1,
-      img: "https://i.ibb.co/XsdmR2c/1.png",
+      img: "https://thumbs.dreamstime.com/z/diseased-woman-sneezing-holding-tissue-15615859.jpg",
       title: "COVID SALE",
       desc: "STUCK INSIDE? GET 30% OFF ON YOUR 1ST ORDER!",
       bg: "f5fafd",
     },
     {
       id: 2,
-      img: "https://i.ibb.co/DG69bQ4/2.png",
+      img: "http://www.crestock.com/images/randomimages/1697-6547410.jpg",
       title: "GRADUATED FROM A BOOTCAMP?",
       desc: "CELEBRATE WITH SOME NEW ART",
       bg: "fcf1ed",
     },
     {
       id: 3,
-      img: "https://ibb.co/McMVGNp",
+      img: "https://cdn2.vectorstock.com/i/1000x1000/67/76/hardwood-floor-and-blank-wall-vector-1846776.jpg",
       title: "TIRED OF PLAIN WALLS?",
       desc: "GET SOME NEW ART! GET 30% OFF ON YOUR 1ST ORDER!",
       bg: "fbf0f4",
